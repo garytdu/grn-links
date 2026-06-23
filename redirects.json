@@ -1,10 +1,27 @@
 {
-  "house": "grn", "owner": "grn_owner",
+  "house": "grn",
+  "owner": "grn_owner",
   "note": "Stable redirect map for grn-common links. Update current_url + push; live in ~1 min. Free, no paid Bitly, control-box IP never exposed.",
   "links": [
-    { "slug": "issues",     "what": "Hong Yip — Issue board",        "current_url": "https://eat-horse-refuse-intended.trycloudflare.com" },
-    { "slug": "hy-mac256",  "what": "Hong Yip — app (Gary dev box)", "current_url": "https://prerequisite-red-cave-diff.trycloudflare.com" },
-    { "slug": "hy-staging", "what": "Hong Yip — Ryan 96GB staging",  "current_url": "" },
-    { "slug": "ai-demo",    "what": "Surveyor photo-report demo",    "current_url": "" }
+    {
+      "slug": "issues",
+      "what": "Hong Yip — Issue board",
+      "current_url": "https://ordering-fundamental-sublime-ana.trycloudflare.com"
+    },
+    {
+      "slug": "hy-mac256",
+      "what": "Hong Yip — app (Gary dev box)",
+      "current_url": "https://marshall-sides-tourist-wondering.trycloudflare.com"
+    },
+    {
+      "slug": "hy-staging",
+      "what": "Hong Yip — Ryan 96GB staging",
+      "current_url": ""
+    },
+    {
+      "slug": "ai-demo",
+      "what": "Surveyor photo-report demo",
+      "current_url": ""
+    }
   ]
 }
