@@ -19,6 +19,11 @@
       "current_url": ""
     },
     {
+      "slug": "hy-mac96",
+      "what": "Hong Yip — latest build (Ryan 96GB target). Interim: Gary live build until Ryan's tunnel is up; repoint current_url to Ryan's cloudflared URL on-site.",
+      "current_url": "https://pub-rental-empire-topics.trycloudflare.com"
+    },
+    {
       "slug": "ai-demo",
       "what": "Surveyor photo-report demo",
       "current_url": ""
