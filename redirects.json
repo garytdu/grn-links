@@ -5,7 +5,7 @@
   "links": [
     {
       "slug": "hy-app256",
-      "what": "Hong Yip app — Gary dev Mac Studio (256GB). Login QCer / Qcstaging.",
+      "what": "Hong Yip app — Gary dev Mac Studio (256GB).",
       "current_url": "https://assume-trained-tide-area.trycloudflare.com"
     },
     {
@@ -17,11 +17,6 @@
       "slug": "grn-issue",
       "what": "Hong Yip — Issue log / board (hosted on Gary, :30055).",
       "current_url": "https://toolbar-nottingham-parent-cheap.trycloudflare.com"
-    },
-    {
-      "slug": "hy-staging",
-      "what": "Hong Yip — Ryan 96GB staging",
-      "current_url": ""
     },
     {
       "slug": "ai-demo",
