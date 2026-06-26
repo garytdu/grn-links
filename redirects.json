@@ -1,22 +1,42 @@
 {
   "house": "grn",
   "owner": "grn_owner",
-  "note": "Stable redirect map. Edit current_url + push; live in ~1 min via GitHub Pages. Free (no paid Bitly), control-box IP never exposed. Empty current_url = link built but target not yet live.",
+  "note": "Stable redirect map. Edit current_url + push; live in ~1 min via GitHub Pages. Free (no paid Bitly). ⚠️ bit.ly links are HARDWIRED to specific slug NAMES (bit.ly can't be re-pointed — paywalled): bit.ly/hy-app256→hy-mac256, bit.ly/grn-issue→issues. DO NOT rename/remove those two slugs — only edit their current_url.",
   "links": [
     {
-      "slug": "hy-app256",
-      "what": "HY app — Gary dev Mac Studio (256GB).",
+      "slug": "hy-mac256",
+      "what": "HY app — Gary dev Mac Studio (256GB). Login QCer / Qcstaging. TARGET of bit.ly/hy-app256 — do NOT rename.",
       "current_url": "https://assume-trained-tide-area.trycloudflare.com"
     },
     {
-      "slug": "hy-app96",
-      "what": "HY app — Ryan's Mac Studio (96GB). Set current_url to the cloudflared tunnel for Ryan's app when up (Ryan machine is on-site only — DO NOT TOUCH remotely).",
+      "slug": "issues",
+      "what": "HY — Issue log / board (Gary, :30055). TARGET of bit.ly/grn-issue — do NOT rename.",
+      "current_url": "https://toolbar-nottingham-parent-cheap.trycloudflare.com"
+    },
+    {
+      "slug": "hy-mac96",
+      "what": "HY app — Ryan's Mac Studio (96GB). Set current_url to Ryan's cloudflared tunnel when up (on-site only).",
       "current_url": ""
     },
     {
+      "slug": "hy-app256",
+      "what": "Alias of hy-mac256 (Gary app) — direct grn-links link.",
+      "current_url": "https://assume-trained-tide-area.trycloudflare.com"
+    },
+    {
       "slug": "grn-issue",
-      "what": "HY — Issue log / board (hosted on Gary, :30055).",
+      "what": "Alias of issues (Gary issue board) — direct grn-links link.",
       "current_url": "https://toolbar-nottingham-parent-cheap.trycloudflare.com"
+    },
+    {
+      "slug": "hy-app96",
+      "what": "Alias of hy-mac96 (Ryan 96GB app) — direct grn-links link.",
+      "current_url": ""
+    },
+    {
+      "slug": "hy-staging",
+      "what": "HY — Ryan 96GB staging",
+      "current_url": ""
     },
     {
       "slug": "ai-demo",
