@@ -15,8 +15,8 @@
     },
     {
       "slug": "grn-issue",
-      "what": "Hong Yip — Issue log (hosted on Gary, :30055). Set current_url to the cloudflared tunnel for the issue board when up.",
-      "current_url": ""
+      "what": "Hong Yip — Issue log / board (hosted on Gary, :30055).",
+      "current_url": "https://toolbar-nottingham-parent-cheap.trycloudflare.com"
     },
     {
       "slug": "hy-staging",
