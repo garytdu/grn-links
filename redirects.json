@@ -1,26 +1,26 @@
 {
   "house": "grn",
   "owner": "grn_owner",
-  "note": "Stable redirect map for grn-common links. Update current_url + push; live in ~1 min. Free, no paid Bitly, control-box IP never exposed.",
+  "note": "Stable redirect map. Edit current_url + push; live in ~1 min via GitHub Pages. Free (no paid Bitly), control-box IP never exposed. Empty current_url = link built but target not yet live.",
   "links": [
     {
-      "slug": "issues",
-      "what": "Hong Yip — Issue board",
-      "current_url": "https://ordering-fundamental-sublime-ana.trycloudflare.com"
+      "slug": "hy-app256",
+      "what": "Hong Yip app — Gary dev Mac Studio (256GB). Set current_url to the cloudflared tunnel for Gary's app (:5173) when up.",
+      "current_url": ""
     },
     {
-      "slug": "hy-mac256",
-      "what": "Hong Yip — app (Gary dev box)",
+      "slug": "hy-app96",
+      "what": "Hong Yip app — Ryan's Mac Studio (96GB). Set current_url to the cloudflared tunnel for Ryan's app when up (Ryan machine is on-site only — DO NOT TOUCH remotely).",
+      "current_url": ""
+    },
+    {
+      "slug": "grn-issue",
+      "what": "Hong Yip — Issue log (hosted on Gary, :30055). Set current_url to the cloudflared tunnel for the issue board when up.",
       "current_url": ""
     },
     {
       "slug": "hy-staging",
       "what": "Hong Yip — Ryan 96GB staging",
-      "current_url": ""
-    },
-    {
-      "slug": "hy-mac96",
-      "what": "Hong Yip — latest build (Ryan 96GB target). Interim: Gary live build until Ryan's tunnel is up; repoint current_url to Ryan's cloudflared URL on-site.",
       "current_url": ""
     },
     {
