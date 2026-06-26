@@ -5,17 +5,17 @@
   "links": [
     {
       "slug": "hy-app256",
-      "what": "Hong Yip app — Gary dev Mac Studio (256GB).",
+      "what": "HY app — Gary dev Mac Studio (256GB).",
       "current_url": "https://assume-trained-tide-area.trycloudflare.com"
     },
     {
       "slug": "hy-app96",
-      "what": "Hong Yip app — Ryan's Mac Studio (96GB). Set current_url to the cloudflared tunnel for Ryan's app when up (Ryan machine is on-site only — DO NOT TOUCH remotely).",
+      "what": "HY app — Ryan's Mac Studio (96GB). Set current_url to the cloudflared tunnel for Ryan's app when up (Ryan machine is on-site only — DO NOT TOUCH remotely).",
       "current_url": ""
     },
     {
       "slug": "grn-issue",
-      "what": "Hong Yip — Issue log / board (hosted on Gary, :30055).",
+      "what": "HY — Issue log / board (hosted on Gary, :30055).",
       "current_url": "https://toolbar-nottingham-parent-cheap.trycloudflare.com"
     },
     {
