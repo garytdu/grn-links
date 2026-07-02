@@ -15,8 +15,8 @@
     },
     {
       "slug": "hy-mac96",
-      "what": "HY app — Ryan's Mac Studio (96GB) landing portal. ON-TAILNET ONLY (Tailscale IP — only resolves for users on the Hong Yip tailnet).",
-      "current_url": "http://100.85.107.71:30031"
+      "what": "HY app — Ryan's Mac Studio (96GB), dev2 build. Password-gated (creds shared separately). Public cloudflared tunnel (⚠️ URL rotates on cloudflared restart — no self-heal on Ryan yet).",
+      "current_url": "https://ought-harbour-fares-when.trycloudflare.com"
     },
     {
       "slug": "hy-app256",
@@ -30,8 +30,8 @@
     },
     {
       "slug": "hy-app96",
-      "what": "Alias of hy-mac96 (Ryan 96GB landing portal). ON-TAILNET ONLY (Tailscale IP).",
-      "current_url": "http://100.85.107.71:30031"
+      "what": "Alias of hy-mac96 (Ryan 96GB dev2 app). TARGET of bit.ly/hy-app96. Password-gated (creds shared separately).",
+      "current_url": "https://ought-harbour-fares-when.trycloudflare.com"
     },
     {
       "slug": "hy-staging",
